@@ -1,0 +1,14 @@
+{
+  "features": [
+    "days_since_last_study",
+    "avg_session_duration",
+    "task_completion_rate",
+    "deadline_proximity_avg",
+    "idle_ratio",
+    "sessions_this_week",
+    "missed_deadlines_count",
+    "self_reported_stress"
+  ],
+  "model_type": "sklearn",
+  "version": "1.0.0"
+}
